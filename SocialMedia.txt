@@ -1,0 +1,385 @@
+﻿<!doctype html>
+ <html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Social Media </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/fontAwesome.css">
+        <link rel="stylesheet" href="css/templatemo-style.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+
+        <div class="overlay"></div>
+        <section class="top-part">
+        <img src="s1.jpg"> 
+          Your browser does not support the video tag.
+          </video>
+        </section>
+        
+        <section class="cd-hero">
+
+          <div class="cd-slider-nav">
+            <nav>
+              <div class="topnav" id="myTopnav">
+  
+  <div class="dropdown">
+    <button class="dropbtn">Social Media
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+
+            </nav> 
+          </div> <!-- .cd-slider-nav -->
+
+          <ul class="cd-hero-slider">
+
+            <li class="selected">
+              <div class="heading">
+                <h1>Social Media</h1>
+                <span>“You are what you share.”</span>
+              </div>
+              <div class="cd-full-width first-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content first-content">
+                        <h4>Social Media</h4>
+                        <p>Social media is any digital technology that allows users to instantly generate and share information with the public. Social media includes a wide variety of websites and apps. Some, such as Twitter, are focused on sharing links and brief written messages. Others, like Instagram, are designed to facilitate sharing photographs and videos.What distinguishes social media is that it is simultaneously vast and somewhat uninhibited.</p>
+                        <div class="primary-button">
+                          <img src="img/s2.jpg" width="800" height= "400"> 
+                            <br>
+                            <br>
+                         <p>While many social media businesses place certain restrictions, such as removing photographs that depict violence or nudity, there are far fewer restrictions on what people can post than traditional forms of mass communication, such as magazines, radio stations, and tv. Anyone with an internet connection can make a social media profile. They can use that profile to post any content they like, and whatever they share is visible to anybody who views their page or account. The capacity to instantly post photographs, views, and events has ch                          anged the way people live and do business.</p>
+                         <br>
+                         <img src="img/s1.jpg" width="800" height= "400">
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>About</h1>
+              </div>s
+              <div class="cd-half-width second-slide">   
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content second-content">
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                            <img src="img/s3.jpg">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-about-text">
+                              <h4>What Is Social Media? – Everything You Need To Know</h4>
+                              <p>You must have recently heard more about “social media” and “social media marketing.” The term “social media” is used frequently to describe what we share on websites and applications like Twitter, Snapchat, Instagram, Facebook, etc. So, in a nutshell, social media are web-based platforms that allow users to engage with one another.Social media relates to networking sites and apps designed for people to swiftly and effectively post information in real-time. While many users use mobile apps to reach social media, this communication channel originated on computers. The concept of Social Media is so broad that you may use it to describe nearly any site on the internet nowadays. </p>
+                              <div class="primary-button">
+                         
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-7">
+                            <div class="left-about-text">
+                              <h4>How Does Social Media Work?</h4>
+                              <p>As there are many types of social media apps, the role of these tools varies as well. On the other hand, most social media platforms begin with a user generating an account, usually by inputting a username and an email account.</p>
+                              <div class="primary-button">
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-5 right-image">
+                            <img src="img/s4.jpg">
+                          </div>
+                        <br>
+                        <div class="row">
+                          <div class="col-md-5 left-image">
+                            <img src="img/s5.jpg">
+                          </div>
+                          <br>
+                          <div class="col-md-5">
+                            <div class="right-about-text">
+                              <p>Users can produce and share content after creating a profile. For example, an Instagrammer with a new account can click a photo and upload it with a caption on their account. In addition, social media users can identify other users whose content they would like to follow or react to and provide content for their profile. For example, a user may “follow” another person, add them as a “friend,” or “sign up” to another user’s page based on the form of social media.</p>
+                          
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>Social Media Types</h1>
+              
+              </div>
+              <div class="cd-half-width third-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content third-content">
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                          <p>There are various forms of social media, and they offer a variety of services; listed below are a few types of social media, along with instances</p>
+                          
+                          <img src="img/s6.jpg">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-feature-text">
+                            <br>
+                            <br>
+                            <br>
+                              <h4><em>Social Network</em></h4>
+                              <div class="feature-list">
+                                <ul>
+                         
+                                  <p><em>This type of social media is concerned with sharing ideas, opinions, and content with other users. Facebook and Twitter are the best examples of social networks. LinkedIn is another social network. However, it is more sophisticated and professional.</em></p>
+                                </ul>
+                              </div>
+                            
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+              <div class="cd-half-width third-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content third-content">
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                            <img src="img/s7.jpg">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-feature-text">
+                              <h4> <em>Media Networks</em></h4>
+                              <div class="feature-list">
+                                <ul>
+                                
+                                    <p><em>Users use this type of social media to share media assets such as images, videos, and other content with one another. The best examples of media networks are YouTube, Pinterest, TikTok, Twitch, Flickr, Vimeo, and Instagram. People post media to these sites, and other users can like, dislike, and remark based on their preferences.</em></p>
+                                </ul>
+                              </div>
+                              
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+  <div class="cd-half-width third-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content third-content">
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                            <img src="img/s8.jpg">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-feature-text">
+                              <h4><em>Review Networks</em></h4>
+                              <div class="feature-list">
+                                <ul>
+                                <p><em>Review networks aid in the evaluation of products and services. It includes Yelp, TripAdvisor, and Amazon.</em></p>
+                                </ul>
+                              </div>
+                              
+                            </div>
+  </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+  <div class="cd-half-width third-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content third-content">
+                             
+                        <div class="row">
+                          <div class="col-md-7 left-image">
+                            <img src="img/s9.jpg">
+                          </div>
+                          <div class="col-md-5">
+                            <div class="right-feature-text">
+                              <h4> <em>Discussion Networks</em></h4>
+                              <div class="feature-list">
+                                <ul>
+                            
+                                   <p><em>These platforms allow people worldwide to discuss a range of problems. Some of the finest examples of discussion networks are Reddit and Quora.</em></p>
+                                </ul>
+                              </div>
+                          
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+  <div class="cd-half-width third-slide">
+                
+
+            <li>
+              <div class="heading">
+                <h1>Gallery</h1>
+                <span>Here you can check our the Beauty of FantaSea</span> 
+              </div>
+              <div class="cd-half-width fourth-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content fourth-content">
+                        <div class="row">
+                          <div class="col-md-3 project-item">
+                            <a href="img/m1.jpg" data-lightbox="image-1"><img src="img/m11.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m2.jpg" data-lightbox="image-1"><img src="img/m22.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m3.jpg" data-lightbox="image-1"><img src="img/m33.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m4.jpg" data-lightbox="image-1"><img src="img/m44.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m5.jpg" data-lightbox="image-1"><img src="img/m55.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m6.jpg" data-lightbox="image-1"><img src="img/m66.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m7.jpg" data-lightbox="image-1"><img src="img/m77.jpg"></a>
+                          </div>
+                          <div class="col-md-3 project-item">
+                            <a href="img/m8.jpg" data-lightbox="image-1"><img src="img/m88.jpg"></a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+
+            <li>
+              <div class="heading">
+                <h1>Contact us</h1>
+                <span>You'll be responded within 48 hrs</span> 
+              </div>
+              <div class="cd-half-width fivth-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content fivth-content">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <div class="left-info">
+                              <p>Telephone:+63 (2) 7902 5900
+                               <p>Mobile: +63(917) 584 1576</p>
+                                <p>Email: Fantasea@gmail.com</p>
+                              <br><br>
+                              <em>Hugom,Laiya Batangas </em>
+                              </p>
+                              <ul class="social-icons">
+                                <i><a href="#"><i class="fa fa-facebook"></i></a></i>
+                                <i><a href="#"><i class="fa fa-twitter"></i></a></i>
+                                <i><a href="#"><i class="fa fa-linkedin"></i></a></i>
+                                <i><a href="#"><i class="fa fa-rss"></i></a></i>
+                                <i><a href="#"><i class="fa fa-behance"></i></a></i>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <form id="contact" action="" method="post">
+                                <div class="col-md-6">
+                                  <fieldset>
+                                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required>
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-6">
+                                  <fieldset>
+                                    <input name="email" type="email" class="form-control" id="email" placeholder="Email" required>
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-12">
+                                  <fieldset>
+                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message" required></textarea>
+                                  </fieldset>
+                                </div>
+                                <div class="col-md-12">
+                                  <fieldset>
+                                    <button type="submit" id="form-submit" class="btn">Send Message</button>
+                                  </fieldset>
+                                </div>
+                              </form>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
+          </ul> <!-- .cd-hero-slider -->
+        </section> <!-- .cd-hero -->
+
+
+        <footer>
+          <p>Copyright &copy; 2020 FantaSea Beach and Resort
+                                
+        	| Designed by <em>Biz&Bautista</em></p>
+        </footer>
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>

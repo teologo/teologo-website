@@ -1,0 +1,28 @@
+ </div>     
+               <div class="cd-half-width fivth-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content fivth-content">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <div class="right-info">
+                              <em>People in today’s world use several social media channels. However, these platforms each have their own set of benefits and drawbacks.s</em>
+                             <h2>The following are some of the benefits of social media:</h2>
+                             <p>1. It draws people together: Social media platforms allow us to communicate openly, and we can readily locate and convey information. Anybody can meet new people, make new connections, and communicate with them.</p>
+                             <p>2. Attract attention: In addition to creating loyalty and long-term relationships with your audience, social media can draw attention to your website, product, or service.</p>
+                             <p>3. For Promotional campaigns: Social media is highly beneficial in promotion and advertising. People can use social media to share their businesses, products, or services with the entire world.</p>
+                             <p>4. Education: People can get a lot of support from social media regarding their education. We can learn from others online, and it offers the best learning chances ever. YouTube, Google, and others are a few instances.</p>
+                             <p>5. Beneficial for Government: The government benefits significantly from social media. It is an effective method for the government to communicate with the public. It is relatively simple for the government to raise public awareness about any topic through social media.</p>
+                             <p>6. As a kind of entertainment: One of the simplest methods to entertain people is through social networking. A large number of people use social media to entertain themselves. People use social media to publish various images and videos to engage others.</p>
+</div>
+                            
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
